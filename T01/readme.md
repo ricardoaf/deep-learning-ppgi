@@ -12,7 +12,8 @@ Due Date: Oct 25, 2019
 - See testenv.py
 
 ## post a screenshot with the results
-- See testenv.png
+- See testenv.png (figure below)
+[![testenv](./testenv.png)](./testenv.png)
 
 ## Theme of the project you have chosen
 - Regression problem
