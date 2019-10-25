@@ -14,5 +14,8 @@ Due Date: Oct 25, 2019
 
 ## Implementar o código de um modelo que executa a função lógica XOR
 - Ver código python: separate_xor.py
+- Ver output do código python
+	- XOR labels:      [0 1 1 0]
+	- XOR prediction:  [0 1 1 0]
 - Ver resultado gráfico: separate_xor.png(figura abaixo)
 [![separate_xor](./separate_xor.png)](./separate_xor.png)

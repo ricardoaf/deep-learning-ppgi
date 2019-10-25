@@ -21,9 +21,9 @@ data = np.vstack([np.hstack([xc, xp]), np.hstack([yc, yp])])
 category = np.hstack([len(xc)*[1], len(xp)*[0]])
 
 # apply perceptron training
-pcpt = Perceptron(2, learning_rate=0.5)
+pcpt = Perceptron(2)
 pcpt.train(data, category)
-w, b = pcpt.weight[1:], pcpt.weight[0]
+w, b = pcpt.weight, pcpt.bias
 
 # plot separation line
 left, right = plt.xlim()
