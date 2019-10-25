@@ -1,6 +1,8 @@
 # T04 Perceptron linear
 Due Date: Oct 25, 2019
 
+Uma classe Perceptron foi implementada (ver perceptron.py) e utilizada nos seguintes desenvolvimentos:
+
 ## Desenvolver o código em Python (NumPy) que executa o perceptron linear (porta de limiar) que separa adequadamente a distribuição de dados feita na semana anterior (T03)
 - Ver código python: separate_random_data.py
 - Ver resultado gráfico: separate_random_data.png (figura abaixo)
