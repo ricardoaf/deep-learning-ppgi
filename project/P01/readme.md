@@ -9,3 +9,7 @@ Na área de exploração e produção de óleo e gás em ambiente offshore, poç
 
 ## Trabalhos relacionados
 - Ver pasta: [references](./references)
+
+## Apresentação da proposta de projeto (Dec 11, 2019)
+- [PPTX](./proposta.pptx)
+- [PDF](./proposta.pdf)
